@@ -1,0 +1,407 @@
+{
+  "1": [
+    {
+      "Term": "Cell cycle",
+      "Adjusted P-value": 1.1645675913132335e-06,
+      "Overlap": "7/124"
+    },
+    {
+      "Term": "Gap junction",
+      "Adjusted P-value": 6.528951617348867e-05,
+      "Overlap": "5/88"
+    },
+    {
+      "Term": "Progesterone-mediated oocyte maturation",
+      "Adjusted P-value": 8.178775785203408e-05,
+      "Overlap": "5/100"
+    },
+    {
+      "Term": "Oocyte meiosis",
+      "Adjusted P-value": 0.0037036456662173,
+      "Overlap": "4/129"
+    },
+    {
+      "Term": "Phagosome",
+      "Adjusted P-value": 0.0050669772753306,
+      "Overlap": "4/152"
+    }
+  ],
+  "2": [
+    {
+      "Term": "Gap junction",
+      "Adjusted P-value": 0.0082158479549508,
+      "Overlap": "4/88"
+    },
+    {
+      "Term": "Human immunodeficiency virus 1 infection",
+      "Adjusted P-value": 0.0109184002980859,
+      "Overlap": "5/212"
+    },
+    {
+      "Term": "Oocyte meiosis",
+      "Adjusted P-value": 0.0119927573953705,
+      "Overlap": "4/129"
+    },
+    {
+      "Term": "Cellular senescence",
+      "Adjusted P-value": 0.0184582743601329,
+      "Overlap": "4/156"
+    },
+    {
+      "Term": "Prion disease",
+      "Adjusted P-value": 0.0858929805890971,
+      "Overlap": "4/273"
+    }
+  ],
+  "3": [
+    {
+      "Term": "Cell cycle",
+      "Adjusted P-value": 0.0006728599083118955,
+      "Overlap": "5/124"
+    },
+    {
+      "Term": "Progesterone-mediated oocyte maturation",
+      "Adjusted P-value": 0.0026688294131444,
+      "Overlap": "4/100"
+    },
+    {
+      "Term": "Oocyte meiosis",
+      "Adjusted P-value": 0.0047366352738018,
+      "Overlap": "4/129"
+    },
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0094990912418494,
+      "Overlap": "3/73"
+    },
+    {
+      "Term": "MicroRNAs in cancer",
+      "Adjusted P-value": 0.0700034980435492,
+      "Overlap": "4/310"
+    }
+  ],
+  "4": [
+    {
+      "Term": "Ribosome",
+      "Adjusted P-value": 1.3883345859233831e-05,
+      "Overlap": "7/158"
+    },
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 9.27802031739032e-05,
+      "Overlap": "7/232"
+    },
+    {
+      "Term": "Ferroptosis",
+      "Adjusted P-value": 0.0001198542033139157,
+      "Overlap": "4/41"
+    },
+    {
+      "Term": "Cysteine and methionine metabolism",
+      "Adjusted P-value": 0.0072947253401192,
+      "Overlap": "3/50"
+    },
+    {
+      "Term": "mTOR signaling pathway",
+      "Adjusted P-value": 0.0130041396276587,
+      "Overlap": "4/154"
+    }
+  ],
+  "5": [
+    {
+      "Term": "Ferroptosis",
+      "Adjusted P-value": 0.000320337597948102,
+      "Overlap": "4/41"
+    },
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0016231451533778,
+      "Overlap": "4/73"
+    },
+    {
+      "Term": "Ribosome",
+      "Adjusted P-value": 0.0212599916439926,
+      "Overlap": "4/158"
+    },
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 0.0655426196070781,
+      "Overlap": "4/232"
+    },
+    {
+      "Term": "Apoptosis",
+      "Adjusted P-value": 0.105488256682619,
+      "Overlap": "3/142"
+    }
+  ],
+  "6": [
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 0.00014361736175578748,
+      "Overlap": "7/232"
+    },
+    {
+      "Term": "Ribosome",
+      "Adjusted P-value": 0.00014361736175578748,
+      "Overlap": "6/158"
+    },
+    {
+      "Term": "Mitophagy",
+      "Adjusted P-value": 0.000908834729885442,
+      "Overlap": "4/68"
+    },
+    {
+      "Term": "Ferroptosis",
+      "Adjusted P-value": 0.0039940640123521,
+      "Overlap": "3/41"
+    },
+    {
+      "Term": "TNF signaling pathway",
+      "Adjusted P-value": 0.0603192097935371,
+      "Overlap": "3/112"
+    }
+  ],
+  "7": [
+    {
+      "Term": "Ribosome",
+      "Adjusted P-value": 9.98552052778842e-26,
+      "Overlap": "19/158"
+    },
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 1.5988225148826564e-24,
+      "Overlap": "20/232"
+    },
+    {
+      "Term": "Mitophagy",
+      "Adjusted P-value": 0.0238766510852576,
+      "Overlap": "3/68"
+    },
+    {
+      "Term": "RNA transport",
+      "Adjusted P-value": 0.0325471590173893,
+      "Overlap": "4/186"
+    },
+    {
+      "Term": "TNF signaling pathway",
+      "Adjusted P-value": 0.0603192097935371,
+      "Overlap": "3/112"
+    }
+  ],
+  "8": [
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0001292581100886281,
+      "Overlap": "5/73"
+    },
+    {
+      "Term": "Apoptosis",
+      "Adjusted P-value": 0.0016940639846778,
+      "Overlap": "5/142"
+    },
+    {
+      "Term": "Mitophagy",
+      "Adjusted P-value": 0.0269433769127219,
+      "Overlap": "3/68"
+    },
+    {
+      "Term": "Transcriptional misregulation in cancer",
+      "Adjusted P-value": 0.0397974291765831,
+      "Overlap": "4/192"
+    },
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.0397974291765831,
+      "Overlap": "4/202"
+    }
+  ],
+  "9": [
+    {
+      "Term": "Lysosome",
+      "Adjusted P-value": 0.0284696100354404,
+      "Overlap": "4/128"
+    },
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0392090149131659,
+      "Overlap": "3/73"
+    },
+    {
+      "Term": "Arginine biosynthesis",
+      "Adjusted P-value": 0.0414048923339423,
+      "Overlap": "2/22"
+    },
+    {
+      "Term": "Proteoglycans in cancer",
+      "Adjusted P-value": 0.0414048923339423,
+      "Overlap": "4/205"
+    },
+    {
+      "Term": "Alanine, aspartate and glutamate metabolism",
+      "Adjusted P-value": 0.0748380528933209,
+      "Overlap": "2/37"
+    }
+  ],
+  "10": [
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0034450427745162,
+      "Overlap": "4/73"
+    },
+    {
+      "Term": "Shigellosis",
+      "Adjusted P-value": 0.0189618915044556,
+      "Overlap": "5/246"
+    },
+    {
+      "Term": "Human papillomavirus infection",
+      "Adjusted P-value": 0.0420623235199658,
+      "Overlap": "5/331"
+    },
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.0420623235199658,
+      "Overlap": "4/202"
+    },
+    {
+      "Term": "Lysosome",
+      "Adjusted P-value": 0.0723817613533589,
+      "Overlap": "3/128"
+    }
+  ],
+  "11": [
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.003975049355211,
+      "Overlap": "4/73"
+    },
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.00734010104073,
+      "Overlap": "5/202"
+    },
+    {
+      "Term": "Human immunodeficiency virus 1 infection",
+      "Adjusted P-value": 0.00734010104073,
+      "Overlap": "5/212"
+    },
+    {
+      "Term": "C-type lectin receptor signaling pathway",
+      "Adjusted P-value": 0.0565954704029938,
+      "Overlap": "3/104"
+    },
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 0.0565954704029938,
+      "Overlap": "4/232"
+    }
+  ],
+  "12": [
+    {
+      "Term": "Protein processing in endoplasmic reticulum",
+      "Adjusted P-value": 1.3963452974651091e-09,
+      "Overlap": "10/171"
+    },
+    {
+      "Term": "Human immunodeficiency virus 1 infection",
+      "Adjusted P-value": 0.0008113097344313384,
+      "Overlap": "6/212"
+    },
+    {
+      "Term": "Antigen processing and presentation",
+      "Adjusted P-value": 0.0016345749358189,
+      "Overlap": "4/78"
+    },
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.0041750778396212,
+      "Overlap": "5/202"
+    },
+    {
+      "Term": "Phagosome",
+      "Adjusted P-value": 0.0128306859302505,
+      "Overlap": "4/152"
+    }
+  ],
+  "13": [
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.0212416240963187,
+      "Overlap": "5/202"
+    },
+    {
+      "Term": "Shigellosis",
+      "Adjusted P-value": 0.0264372525783275,
+      "Overlap": "5/246"
+    },
+    {
+      "Term": "p53 signaling pathway",
+      "Adjusted P-value": 0.0390742760303027,
+      "Overlap": "3/73"
+    },
+    {
+      "Term": "NOD-like receptor signaling pathway",
+      "Adjusted P-value": 0.0391468473535051,
+      "Overlap": "4/181"
+    },
+    {
+      "Term": "Kaposi sarcoma-associated herpesvirus infection",
+      "Adjusted P-value": 0.0396896795150244,
+      "Overlap": "4/193"
+    }
+  ],
+  "14": [
+    {
+      "Term": "Coronavirus disease",
+      "Adjusted P-value": 0.00016700436571302576,
+      "Overlap": "7/232"
+    },
+    {
+      "Term": "Ribosome",
+      "Adjusted P-value": 0.0022732462160496,
+      "Overlap": "5/158"
+    },
+    {
+      "Term": "Human immunodeficiency virus 1 infection",
+      "Adjusted P-value": 0.0636871829688883,
+      "Overlap": "4/212"
+    },
+    {
+      "Term": "Epithelial cell signaling in Helicobacter pylori infection",
+      "Adjusted P-value": 0.1532040498395235,
+      "Overlap": "2/70"
+    },
+    {
+      "Term": "Epstein-Barr virus infection",
+      "Adjusted P-value": 0.1532040498395235,
+      "Overlap": "3/202"
+    }
+  ],
+  "15": [
+    {
+      "Term": "Steroid biosynthesis",
+      "Adjusted P-value": 1.9667408892534865e-05,
+      "Overlap": "4/20"
+    },
+    {
+      "Term": "Terpenoid backbone biosynthesis",
+      "Adjusted P-value": 0.0010088899295058,
+      "Overlap": "3/22"
+    },
+    {
+      "Term": "Mitophagy",
+      "Adjusted P-value": 0.0010088899295058,
+      "Overlap": "4/68"
+    },
+    {
+      "Term": "Lysosome",
+      "Adjusted P-value": 0.0076644955334629,
+      "Overlap": "4/128"
+    },
+    {
+      "Term": "Shigellosis",
+      "Adjusted P-value": 0.0076644955334629,
+      "Overlap": "5/246"
+    }
+  ]
+}

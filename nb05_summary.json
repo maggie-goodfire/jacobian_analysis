@@ -1,0 +1,78 @@
+{
+  "n_kds_total": 2023,
+  "n_clusters": 15,
+  "n_rep_kds_jacobian": 225,
+  "pearson_r_jac_dy": 0.11920101195573807,
+  "pearson_p_jac_dy": 2.08778505002761e-80,
+  "spearman_r_jac_dy": 0.09359643015306097,
+  "spearman_p_jac_dy": 3.831733301789098e-50,
+  "wilcoxon_p": 1.1452238652042854e-15,
+  "same_cluster_jac_mean": 0.019919589161872864,
+  "diff_cluster_jac_mean": 0.010381042957305908,
+  "jac_pert_repr_dim": 328,
+  "jac_output_dim": 2000,
+  "svd_explained_var": [
+    0.6283355355262756,
+    0.04116141423583031,
+    0.032201219350099564,
+    0.030839119106531143,
+    0.028836438432335854
+  ],
+  "svd_top_genes": {
+    "1": [
+      "GMEB1",
+      "DHRS4-AS1",
+      "HBP1",
+      "IL17RA",
+      "PHF1",
+      "FLCN",
+      "EZH1",
+      "HIVEP1",
+      "RAB2B",
+      "RASA2"
+    ],
+    "2": [
+      "EPC2",
+      "NPAT",
+      "ZMYM5",
+      "APTR",
+      "SIRT1",
+      "PDSS2",
+      "LGMN",
+      "GABPA",
+      "RFX7",
+      "NRDE2"
+    ],
+    "3": [
+      "ZBTB41",
+      "CU638689.4",
+      "SAPCD2",
+      "ATN1",
+      "GCLC",
+      "ATXN7",
+      "ZNF84",
+      "GATAD2B",
+      "CIAO3",
+      "DCAF10"
+    ]
+  },
+  "cluster_top_pathway": {
+    "1": "chromatin",
+    "2": "chromatin",
+    "3": "ER_secretory",
+    "4": "mito_complex",
+    "5": "chromatin",
+    "6": "splicing",
+    "7": "mito_complex",
+    "8": "splicing",
+    "9": "ribosome",
+    "10": "splicing",
+    "11": "splicing",
+    "12": "ER_secretory",
+    "13": "splicing",
+    "14": "splicing",
+    "15": "splicing"
+  },
+  "verdict": "WEAK POSITIVE \u2014 partial circuit sharing",
+  "interpretation": "Some routing structure but not strongly predictive"
+}
